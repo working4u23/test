@@ -54,7 +54,7 @@
     "@angular/forms": "9.1.6",
     "@angular/http": "7.2.16",
     "@angular/language-service": "9.1.6",
-    "@angular/localize": "9.1.6",
+    "@angular/localize": "9.1.12",
     "@angular/platform-browser": "9.1.6",
     "@angular/platform-browser-dynamic": "9.1.6",
     "@angular/platform-server": "9.1.6",
