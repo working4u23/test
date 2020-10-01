@@ -69,7 +69,7 @@
     "@ngx-i18nsupport/tooling": "8.0.3",
     "@ngx-meta/core": "9.0.0",
     "@ngx-translate/i18n-polyfill": "1.0.0",
-    "@sentry/browser": "5.15.5",
+    "@sentry/browser": "5.22.3",
     "classlist.js": "1.1.20150312",
     "compression": "1.7.4",
     "cookie-parser": "1.4.5",
