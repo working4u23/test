@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@angular-devkit/build-angular": "0.901.9",
-    "@angular-devkit/build-ng-packagr": "0.901.5",
+    "@angular-devkit/build-ng-packagr": "0.1001.1",
     "@angular-devkit/schematics": "9.1.5",
     "@angular/animations": "9.1.6",
     "@angular/cdk": "9.2.3",
