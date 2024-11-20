@@ -39,7 +39,7 @@
     }
   },
   "dependencies": {
-    "@angular-devkit/build-angular": "0.901.9",
+    "@angular-devkit/build-angular": "19.0.0",
     "@angular-devkit/build-ng-packagr": "0.901.5",
     "@angular-devkit/schematics": "9.1.5",
     "@angular/animations": "9.1.6",
@@ -75,7 +75,7 @@
     "cookie-parser": "1.4.5",
     "core-js": "3.6.5",
     "express": "4.17.1",
-    "firebase": "7.21.0",
+    "firebase": "10.9.0",
     "grpc": "1.24.2",
     "helmet": "3.22.0",
     "ng-animate": "0.3.4",
